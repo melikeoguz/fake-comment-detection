@@ -1,4 +1,4 @@
-# fake-comment-detection
+# Makine Öğrenme Yöntemleriyle Sahte Kullanıcı Yorumlarının Tespiti
 
 E-ticaret sistemi çok geliştiği için ürünler hakkında birçok yorum yapılmaktadır. Yapay zekanın gelişmesiyle birlikte verilerin gerçekliği hakkında şüpheler başlamıştır. Bu projede bu soruna çözüm aranmaktadır. Geliştirilen sistem şu şekilde çalışmaktadır. Öncelikle klavyeden bir giriş alınır. Daha sonra eğitilmiş modelimiz bunun makine yorumu mu (sahte yorum) yoksa insan yorumu mu olduğunu tespit etmektedir.
 
